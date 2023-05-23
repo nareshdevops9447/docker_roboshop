@@ -1,1 +1,1 @@
-FROM almalinux:alpine
+FROM almalinux:8-minimal
